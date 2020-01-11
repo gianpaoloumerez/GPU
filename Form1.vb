@@ -57,4 +57,20 @@
             Label1.Text += "5"
         End If
     End Sub
+
+    Private Sub Button12_Click(sender As Object, e As EventArgs) Handles Button12.Click
+        If Label1.Text = "0" Then
+            Label1.Text = "6"
+        ElseIf Label1.Text <> "0" Then
+            Label1.Text += "6"
+        End If
+    End Sub
+
+    Private Sub Button19_Click(sender As Object, e As EventArgs) Handles Button19.Click
+        If Label1.Text = "0" Then
+            Label1.Text = "7"
+        ElseIf Label1.Text <> "0" Then
+            Label1.Text += "7"
+        End If
+    End Sub
 End Class
