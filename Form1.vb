@@ -89,4 +89,18 @@
             Label1.Text += "9"
         End If
     End Sub
+
+    Private Sub Button22_Click(sender As Object, e As EventArgs) Handles Button22.Click
+        If Label1.Text = "" Then
+            Label1.Text = "0"
+        ElseIf Label1.Text = "0" Then
+            Label1.Text = "0"
+        ElseIf Label1.Text <> "0" Then
+            Label1.Text = Label1.Text.Substring(0, Label1.Text.Length - 1)
+            If Label1.Text = "" Then
+                Label1.Text = "0"
+            End If
+        End If
+
+    End Sub
 End Class
