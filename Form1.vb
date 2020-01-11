@@ -25,4 +25,12 @@
         End If
 
     End Sub
+
+    Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
+        If Label1.Text = "0" Then
+            Label1.Text = "2"
+        ElseIf Label1.Text <> "0" Then
+            Label1.Text += "2"
+        End If
+    End Sub
 End Class
