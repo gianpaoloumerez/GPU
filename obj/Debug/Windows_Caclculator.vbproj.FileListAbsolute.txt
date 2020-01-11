@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\bin\Debug\Windows_Caclculator.exe.config
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\bin\Debug\Windows_Caclculator.exe
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\bin\Debug\Windows_Caclculator.pdb
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\bin\Debug\Windows_Caclculator.xml
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\obj\Debug\Windows_Caclculator.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\obj\Debug\Windows_Caclculator.Resources.resources
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\obj\Debug\Windows_Caclculator.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\obj\Debug\Windows_Caclculator.exe
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\obj\Debug\Windows_Caclculator.xml
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\obj\Debug\Windows_Caclculator.pdb
+C:\Users\admin\source\repos\Windows_Caclculator\Windows_Caclculator\obj\Debug\Windows_Caclculator.Calculator.resources
