@@ -33,4 +33,28 @@
             Label1.Text += "2"
         End If
     End Sub
+
+    Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
+        If Label1.Text = "0" Then
+            Label1.Text = "3"
+        ElseIf Label1.Text <> "0" Then
+            Label1.Text += "3"
+        End If
+    End Sub
+
+    Private Sub Button14_Click(sender As Object, e As EventArgs) Handles Button14.Click
+        If Label1.Text = "0" Then
+            Label1.Text = "4"
+        ElseIf Label1.Text <> "0" Then
+            Label1.Text += "4"
+        End If
+    End Sub
+
+    Private Sub Button13_Click(sender As Object, e As EventArgs) Handles Button13.Click
+        If Label1.Text = "0" Then
+            Label1.Text = "5"
+        ElseIf Label1.Text <> "0" Then
+            Label1.Text += "5"
+        End If
+    End Sub
 End Class
